@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm David Henry</h1>
-<h3 align="center">A passionate and friendly frontend developer from West Palm Beach, Florida</h3>
+<h3 align="center">A passionate and friendly full stack developer located in West Palm Beach, Florida</h3>
 
 <p align="left"> <a href="https://twitter.com/itswaveydavid" target="blank"><img src="https://img.shields.io/twitter/follow/itswaveydavid?logo=twitter&style=for-the-badge" alt="itswaveydavid" /></a> </p>
 
