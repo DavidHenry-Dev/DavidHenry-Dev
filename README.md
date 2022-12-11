@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Client IT Site]()
 
-- 🌱 I’m currently learning **Node.js, React,**
+- 🌱 I’m currently learning **React, LESS**
 
 - 👨‍💻 All of my projects are available at [davidhenry.dev](davidhenry.dev)
 
