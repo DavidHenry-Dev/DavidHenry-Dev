@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, LESS**
 
-- 👨‍💻 View some of my projects at [davidhenry.dev]((https://davidhenry.dev/)
+- 👨‍💻 View some of my projects at [davidhenry.dev](https://davidhenry.dev/)
 
 - 📫 How to reach me **davidhenrydev@gmail.com**
 
