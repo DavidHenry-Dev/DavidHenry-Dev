@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/itswaveydavid" target="blank"><img src="https://img.shields.io/twitter/follow/itswaveydavid?logo=twitter&style=for-the-badge" alt="itswaveydavid" /></a> </p>
 
-- 🔭 I’m currently working on [portfolio redesign](https://davidhenry.dev/)
+- 🔭 I’m currently working on [Client IT Site]()
 
 - 🌱 I’m currently learning **Node.js, React,**
 
