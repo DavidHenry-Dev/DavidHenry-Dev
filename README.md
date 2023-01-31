@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Client IT Site]()
 
-- 🌱 I’m currently learning **React, LESS**
+- 🌱 I’m currently learning **Material UI**
 
 - 👨‍💻 View some of my projects at [davidhenry.dev](https://davidhenry.dev/)
 
