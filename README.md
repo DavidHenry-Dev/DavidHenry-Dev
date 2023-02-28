@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/itswaveydavid" target="blank"><img src="https://img.shields.io/twitter/follow/itswaveydavid?logo=twitter&style=for-the-badge" alt="itswaveydavid" /></a> </p>
 
-- 🔭 I’m currently working on [Client IT Site]()
+- 🔭 I’m currently working on **Shoestore-ecommerce**
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m currently learning **Strapi**
 
 - 👨‍💻 View some of my projects at [davidhenry.dev](https://davidhenry.dev/)
 
